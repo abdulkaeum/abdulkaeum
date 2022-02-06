@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 I'm Abdul, a PHP Laravel developer based in Birmingham, UK.
 
