@@ -13,3 +13,7 @@ Reminds me of when I was a kid, I'd wait for electrical items to stop working ju
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulkaeum)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+<a target="_blank" href="https://www.linkedin.com/in/abdul-kaeum/">
+<img alt="" width="50" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg">
+</a>
