@@ -2,7 +2,10 @@
 
 I'm Abdul, a PHP Laravel developer based in Birmingham, UK. <br>
 I've developed bespoke solutions for the events and exhibitions industry focusing on client data management.
+
 <br>
+<br>
+
 I love solving problems! <br>
 I like to take a problem and break it up into smaller pieces and tackle each one at a time. <br>
 A bit like a computer game, level 1 complete, level 2 complete, level 3 complete, hurrah you've unlocked 10k points and won Gold! <br>
