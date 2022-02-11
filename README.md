@@ -9,7 +9,8 @@ A bit like playing a computer game! 🖥️ <br>
 
 - 🌱 I’m currently learning TDD. It's super useful in the long run for your projects. I'd put it - Let the tests write your development.
 - ⚡ In my spare time I like to 'php artisan' tinker with creating features ultimately helping people get things done faster.
-- 🔭 Below are some projects that I've been currently working on.
+- 🔭 Below are some projects that I've been currently working on and you'll find more in the pinned section.
+  -  https://github.com/abdulkaeum/stripe-cashier
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulkaeum)](https://github.com/anuraghazra/github-readme-stats)
 -->
