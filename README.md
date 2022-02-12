@@ -7,9 +7,9 @@ I've developed bespoke solutions for the events and exhibitions industry focusin
 I love solving problems! 🔨 I like to take a problem and break it up into smaller pieces and tackle each one at a time. 
 A bit like playing a computer game! 🖥️ <br>
 
-- 🌱 I’m currently learning TDD. It's super useful in the long run for your projects. I'd put it - Let the tests write your development.
-- ⚡ In my spare time I like to 'php artisan' tinker with creating features ultimately helping people get things done faster.
-- 🔭 Below are some projects that I've been currently working on and you'll find more in the pinned section.
+🌱 I’m currently learning TDD. It's super useful in the long run for your projects. I'd put it - Let the tests write your development.
+⚡ I enjoy being a [php artisan, tinker]ing and creating features ultimately helping people get things done faster.
+🔭 Below are some projects that I've been currently working on and you'll find more in the pinned section.
   -  <a href="https://github.com/abdulkaeum/stripe-cashier">Simulating online payments via Stripe and Cashier</a>
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulkaeum)](https://github.com/anuraghazra/github-readme-stats)
