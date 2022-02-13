@@ -11,6 +11,7 @@ A bit like playing a computer game! 🖥️ <br>
 ⚡ I enjoy being a [php artisan, tinker]ing and creating features ultimately helping people get things done faster.<br>
 🔭 Below are some projects that I've been currently working on and you'll find more in the pinned section.<br>
   -  <a href="https://github.com/abdulkaeum/stripe-cashier">Simulating online payments via Stripe and Cashier</a>
+  -  <a href="https://github.com/abdulkaeum/import_export_data">Import / export data using job batching and maatwebsite/excel</a>
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulkaeum)](https://github.com/anuraghazra/github-readme-stats)
 -->
