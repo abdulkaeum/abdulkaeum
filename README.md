@@ -12,6 +12,8 @@ I've developed bespoke solutions for the events and exhibitions industry focusin
 🔭 Below are some projects that I'm currently working on focusing with Laravel / PHP. <br>
   -  <a href="https://github.com/abdulkaeum/import_export_data">Import / export data using job batching and maatwebsite/excel</a>
   -  <a href="https://github.com/abdulkaeum/stripe-cashier">Simulating online payments via Stripe and Cashier</a>
+  -  <a href="https://github.com/abdulkaeum/scrabble-wars">Scrabble Wars</a>
+
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulkaeum)](https://github.com/anuraghazra/github-readme-stats)
 -->
