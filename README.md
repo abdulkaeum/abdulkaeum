@@ -13,7 +13,7 @@ I've developed bespoke solutions for the events and exhibitions industry focusin
   -  <a href="https://github.com/abdulkaeum/import_export_data">Import / export data using job batching and maatwebsite/excel</a> (in progress)
   -  <a href="https://github.com/abdulkaeum/stripe-cashier">Simulating online payments via Stripe and Cashier</a>
   -  <a href="https://github.com/abdulkaeum/scrabble-wars">Scrabble Wars Coding Challenge</a>
-  -  <a href="https://github.com/abdulkaeum/client-apis">Backend multiple API consumption</a>
+  -  <a href="https://github.com/abdulkaeum/client-apis">Backend multiple API consumption challenge</a>
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulkaeum)](https://github.com/anuraghazra/github-readme-stats)
