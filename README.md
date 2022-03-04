@@ -25,7 +25,7 @@ I've developed bespoke solutions for the events and exhibitions industry focusin
 </a>
 
 ##### 💡 People that inspire me
-Rasmus Lerdorf
-Taylor Otwell
-Elon Musk
+Rasmus Lerdorf<br>
+Taylor Otwell<br>
+Elon Musk<br>
 Muhammad Ali
