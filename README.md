@@ -23,3 +23,9 @@ I've developed bespoke solutions for the events and exhibitions industry focusin
 <a target="_blank" href="https://www.linkedin.com/in/abdul-kaeum/">
 <img alt="" width="20" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg">
 </a>
+
+##### 💡 People that inspire me
+Rasmus Lerdorf
+Taylor Otwell
+Elon Musk
+Muhammad Ali
