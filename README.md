@@ -12,7 +12,7 @@ I've developed bespoke solutions for the events and exhibitions industry focusin
 🔭 Below are some projects that I'm currently working on focusing with Laravel / PHP. <br>
   -  <a href="https://github.com/abdulkaeum/import_export_data">Import / export data using job batching and maatwebsite/excel</a> (in progress)
   -  <a href="https://github.com/abdulkaeum/stripe-cashier">Simulating online payments via Stripe and Cashier</a>
-  -  <a href="https://github.com/abdulkaeum/scrabble-wars">Scrabble Wars Coding Challenge</a>
+  -  <a href="https://github.com/abdulkaeum/scrabble-wars">Scrabble Wars coding challenge</a>
   -  <a href="https://github.com/abdulkaeum/client-apis">Backend multiple API consumption challenge</a>
 
 <!--
@@ -24,8 +24,10 @@ I've developed bespoke solutions for the events and exhibitions industry focusin
 <img alt="" width="20" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg">
 </a>
 
+<!--
 ##### 💡 People that inspire me
 Rasmus Lerdorf<br>
 Taylor Otwell<br>
 Elon Musk<br>
 Muhammad Ali
+-->
