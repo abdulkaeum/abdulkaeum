@@ -1,13 +1,13 @@
 ## Hi 👋
 
-I'm Abdul, a PHP Laravel developer based in Birmingham, UK. <br>
+I'm Abdul, a Junior Backend Developer currently based in Birmingham, UK soon to relocate to Manchester. <br>
 I've developed bespoke solutions for the events and exhibitions industry focusing on client data management.
 <br>
 
 🔨 I love solving problems! I like to take a problem and break it up into smaller pieces and tackle each one at a time. <br>
 🖥️ A bit like playing a computer game! It's fun.<br>
 
-🌱 I’m currently learning TDD. It's super useful in the long run for your projects. I'd put it - Let the tests write your development.<br>
+🌱 I’m currently learning about TDD and SOLID principles. It's super useful in the long run for your projects. I'd put it - Let the tests write your development.<br>
 ⚡ I enjoy being a <sup>php artisan, tinker</sup>ing and creating features ultimately helping people get things done faster.<br>
 🔭 Below are some projects that I'm currently working on focusing with Laravel / PHP. <br>
   -  <a href="https://github.com/abdulkaeum/import_export_data">Import / export data using job batching and maatwebsite/excel</a> (in progress)
