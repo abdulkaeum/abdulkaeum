@@ -10,8 +10,8 @@ I've developed bespoke solutions for the events and exhibitions industry focusin
 🌱 I’m currently learning about TDD and SOLID principles. It's super useful in the long run for your projects. I'd put it - Let the tests write your development.<br>
 ⚡ I enjoy being a <sup>php artisan, tinker</sup>ing and creating features ultimately helping people get things done faster.<br>
 🔭 Below are some projects that I'm currently working on focusing with Laravel / PHP. <br>
-  -  <a href="https://github.com/abdulkaeum/scrabble-wars">Scrabble Wars coding challenge</a>
-  -  <a href="https://github.com/abdulkaeum/client-apis">Backend multiple API consumption challenge</a>
+  -  <a href="https://github.com/abdulkaeum/scrabble-wars">Coding challenge - Scrabble Wars</a>
+  -  <a href="https://github.com/abdulkaeum/client-apis">Coding challenge - Backend multiple API consumption</a>
   -  <a href="https://github.com/abdulkaeum/stripe-cashier">Simulating online payments via Stripe and Cashier</a>
   -  <a href="https://github.com/abdulkaeum/import_export_data">Import / export data using job batching and maatwebsite/excel</a> (in progress)
 
