@@ -1,7 +1,7 @@
 ## Hi 👋
 
 I'm Abdul, a Junior Developer focusing on PHP / Laravel / SQL.<br>
-Currently based in Birmingham, UK soon to relocate to Manchester. <br>
+Currently based in Birmingham, UK soon to relocate to Manchester as of early July 2022. <br>
 I've developed bespoke solutions for the events and exhibitions industry focusing on client data management.
 <br>
 
