@@ -9,7 +9,7 @@ I've developed bespoke solutions for the events and exhibitions industry focusin
 🖥️ A bit like playing a computer game! It's fun.<br>
 
 🌱 I’m currently learning about TDD and SOLID principles. It's super useful in the long run for your projects.<br>
-🌱 Next up VUE.js... cant't wait.<br>
+🌱 Next up VUE.js... can't wait.<br>
 ⚡ I enjoy being a <sup>php artisan, tinker</sup>ing and creating features ultimately helping people get things done faster.<br>
 🔭 Below are some projects that I'm currently working on focusing with Laravel / PHP. <br>
   -  <a href="https://github.com/abdulkaeum/scrabble-wars">Coding challenge - Scrabble Wars</a>
