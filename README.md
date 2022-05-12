@@ -1,6 +1,7 @@
 ## Hi 👋
 
-I'm Abdul, a Junior Developer focusing on PHP / Laravel / SQL.<br>
+I'm Abdul, a Junior Developer focusing on Laravel / PHP / SQL.<br>
+In my spare time I currently follow in order to improve my skills: Laracasts, Laravel News, Program With Gio and Laravel Daily.<br>
 Currently based in Birmingham, UK soon to relocate to Manchester as of early July 2022. <br>
 I've developed bespoke solutions for the events and exhibitions industry focusing on client data management.
 <br>
@@ -8,8 +9,8 @@ I've developed bespoke solutions for the events and exhibitions industry focusin
 🔨 I love solving problems! I like to take a problem and break it up into smaller pieces and tackle each one at a time. <br>
 🖥️ A bit like playing a computer game! It's fun.<br>
 
-🌱 I’m currently learning about TDD and SOLID principles. It's super useful in the long run for your projects.<br>
-🌱 Next up VUE.js... can't wait.<br>
+🌱 I’m currently learning and have a keen interest about TDD/PHPUnit and SOLID principles. It's super useful in the long run for your projects.<br>
+🌱 Next up JS and VUE.js... can't wait.<br>
 ⚡ I enjoy being a <sup>php artisan, tinker</sup>ing and creating features ultimately helping people get things done faster.<br>
 🔭 Below are some projects that I'm currently working on focusing with Laravel / PHP. <br>
   -  <a href="https://github.com/abdulkaeum/scrabble-wars">Coding challenge - Scrabble Wars</a>
