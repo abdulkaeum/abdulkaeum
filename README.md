@@ -7,10 +7,10 @@ I've developed bespoke solutions for the events and exhibitions industry focusin
 <br>
 
 🔨 I love solving problems! I like to take a problem and break it up into smaller pieces and tackle each one at a time. <br>
-🖥️ A bit like playing a computer game! It's fun.<br>
+🖥️ A bit like playing a computer game, you start at level 1 and the challenge is to clock the game.<br>
 
-🌱 I’m currently learning and have a keen interest about TDD/PHPUnit and SOLID principles. It's super useful in the long run for your projects.<br>
-🌱 Next up JS and VUE.js... can't wait.<br>
+🌱 I have a keen interest about TDD/PHPUnit and SOLID principles. It's super useful in the long run for your projects.<br>
+🌱 Currently focusing on JS via Jonas Schmedtmann.<br>
 ⚡ I enjoy being a <sup>php artisan, tinker</sup>ing and creating features ultimately helping people get things done faster.<br>
 🔭 Below are some projects that I'm currently working on focusing with Laravel / PHP. <br>
   -  <a href="https://github.com/abdulkaeum/scrabble-wars">Coding challenge - Scrabble Wars</a>
