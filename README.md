@@ -16,6 +16,7 @@ I've developed bespoke solutions for the events and exhibitions industry focusin
   -  <a href="https://github.com/abdulkaeum/scrabble-wars">Scrabble Wars</a>
   -  <a href="https://github.com/abdulkaeum/client-apis">Backend multiple API consumption</a>
   -  <a href="https://github.com/abdulkaeum/stripe-cashier">Simulating online payments via Stripe and Cashier</a>
+  -  <a href="https://github.com/abdulkaeum/my-panel">Advanced To Do app</a>
   -  <a href="https://github.com/abdulkaeum/import_export_data">Import / export data using job batching and maatwebsite/excel</a> (in progress)
   -  More below in the Pinned section
 
