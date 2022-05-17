@@ -10,7 +10,7 @@ I've developed bespoke solutions for the events and exhibitions industry focusin
 🖥️ A bit like playing a computer game, you start at level 1 and the challenge is to clock the game!<br>
 
 <!--🌱 I have a keen interest about TDD/PHPUnit and SOLID principles. It's super useful in the long run for your projects.<br>-->
-🌱 Currently focusing on JS via Jonas Schmedtmann.<br>
+🌱 Currently focusing on JS via <a target="_blank" href="https://www.udemy.com/course/the-complete-javascript-course/">Jonas Schmedtmann</a>.<br>
 ⚡ I enjoy being a php artisan, tinkering and creating features ultimately helping people get things done faster.<br>
 🔭 Below are some projects that I'm currently working on focusing with Laravel / PHP. <br>
   -  <a href="https://github.com/abdulkaeum/scrabble-wars">Scrabble Wars</a>
