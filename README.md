@@ -22,7 +22,7 @@ I've developed bespoke solutions for the events and exhibitions industry focusin
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulkaeum)](https://github.com/anuraghazra/github-readme-stats)
 
-<--
+<!--
 ##### 💡 People that inspire me
 Rasmus Lerdorf - thank you for giving us your Personal Home Page <br>
 Taylor Otwell - thank you for the breath of fresh air! <br>
