@@ -7,7 +7,7 @@ I've developed bespoke solutions for the events and exhibitions industry focusin
 <br>
 
 🔨 I love solving problems! I like to take a problem and break it up into smaller pieces and tackle each one at a time. <br>
-🖥️ A bit like playing a computer game, you start at level 1 and the challenge is to clock the game.<br>
+🖥️ A bit like playing a computer game, you start at level 1 and the challenge is to clock the game!<br>
 
 🌱 I have a keen interest about TDD/PHPUnit and SOLID principles. It's super useful in the long run for your projects.<br>
 🌱 Currently focusing on JS via Jonas Schmedtmann.<br>
@@ -22,10 +22,12 @@ I've developed bespoke solutions for the events and exhibitions industry focusin
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulkaeum)](https://github.com/anuraghazra/github-readme-stats)
 
+<--
 ##### 💡 People that inspire me
 Rasmus Lerdorf - thank you for giving us your Personal Home Page <br>
 Taylor Otwell - thank you for the breath of fresh air! <br>
 Elon Musk - the future must include being out there among the stars <br>
+-->
 
 #### Connect with me:
 <a target="_blank" href="https://www.linkedin.com/in/abdul-kaeum/">
