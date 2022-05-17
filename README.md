@@ -9,7 +9,7 @@ I've developed bespoke solutions for the events and exhibitions industry focusin
 🔨 I love solving problems! I like to take a problem and break it up into smaller pieces and tackle each one at a time. <br>
 🖥️ A bit like playing a computer game, you start at level 1 and the challenge is to clock the game!<br>
 
-🌱 I have a keen interest about TDD/PHPUnit and SOLID principles. It's super useful in the long run for your projects.<br>
+<!--🌱 I have a keen interest about TDD/PHPUnit and SOLID principles. It's super useful in the long run for your projects.<br>-->
 🌱 Currently focusing on JS via Jonas Schmedtmann.<br>
 ⚡ I enjoy being a php artisan, tinkering and creating features ultimately helping people get things done faster.<br>
 🔭 Below are some projects that I'm currently working on focusing with Laravel / PHP. <br>
