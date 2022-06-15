@@ -13,8 +13,8 @@ I've developed bespoke solutions for the events and exhibitions industry focusin
 🌱 Currently focusing on JS via <a target="_blank" href="https://www.udemy.com/course/the-complete-javascript-course/">Jonas Schmedtmann</a>.<br>
 ⚡ I enjoy being a php artisan, tinkering and creating features ultimately helping people get things done faster.<br>
 🔭 Below are some projects that I'm currently working on focusing with Laravel / PHP. <br>
-  -  <a href="https://github.com/abdulkaeum/scrabble-wars">Scrabble Wars</a>
   -  <a href="https://github.com/abdulkaeum/client-apis">Backend multiple API consumption</a>
+  -  <a href="https://github.com/abdulkaeum/scrabble-wars">Scrabble Wars</a>
   -  <a href="https://github.com/abdulkaeum/stripe-cashier">Simulating online payments via Stripe and Cashier</a>
   -  <a href="https://github.com/abdulkaeum/my-panel">Advanced To Do app</a>
   -  <a href="https://github.com/abdulkaeum/import_export_data">Import / export data using job batching and maatwebsite/excel</a> (in progress)
